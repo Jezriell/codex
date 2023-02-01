@@ -8,13 +8,13 @@
 }
 
 body {
-  background: image('./assets/Jezz.jpg');
+  background: #343541;
 }
 
 #app {
   width: 100vw;
   height: 100vh;
-  background: #1d09d5;
+  background: image('./assets/Jezz.jpg');
 
   display: flex;
   flex-direction: column;
