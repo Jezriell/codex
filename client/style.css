@@ -8,14 +8,15 @@
 }
 
 body {
-  background-image: url('./assets/Jezz.jpg');
-  background-size: cover;
-  
+  /* background: #343541; */
+  background: contain url('./assets/Jezz.jpg');
 }
 
 #app {
-  width: auto;
-  height: auto;
+  width: 100vw;
+  height: 100vh;
+  
+  
 
   display: flex;
   flex-direction: column;
@@ -51,7 +52,7 @@ body {
 }
 
 .ai {
-  background: #dcdcdc;
+  background: #343541;
 }
 
 .chat {
@@ -118,7 +119,7 @@ form {
   max-width: 1280px;
   margin: 0 auto;
   padding: 10px;
-  background: #bebfcd;
+  background: #40414F;
 
   display: flex;
   flex-direction: row;
