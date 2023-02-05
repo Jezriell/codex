@@ -10,12 +10,12 @@
 body {
   background-image: url('./assets/Jezz.jpg');
   background-size: cover;
-  width: auto;
-  height: auto;
+  
 }
 
 #app {
-
+  width: auto;
+  height: auto;
 
   display: flex;
   flex-direction: column;
@@ -51,7 +51,7 @@ body {
 }
 
 .ai {
-  background: #343541;
+  background: #bec1db;
 }
 
 .chat {
