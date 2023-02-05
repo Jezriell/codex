@@ -14,7 +14,8 @@ body {
 #app {
   width: 100vw;
   height: 100vh;
-  background: image('./assets/Jezz.jpg'), fill;
+  background: cover;
+  background-image: ('./assets/Jezz.jpg');
   
 
   display: flex;
