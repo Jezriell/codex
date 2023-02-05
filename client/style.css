@@ -8,14 +8,14 @@
 }
 
 body {
-  background: #343541;
+  background-image: url('./assets/Jezz.jpg');
+  background-size: cover;
 }
 
 #app {
-  /* width: 100vw;
-  height: 100vh; */
-  background-image: url('./assets/Jezz.jpg');
-  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  
   
 
   display: flex;
