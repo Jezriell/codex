@@ -15,7 +15,7 @@ body {
   width: 100vw;
   height: 100vh;
   background: cover;
-  background-image: ('./assets/Jezz.jpg');
+  background-image: url('./assets/Jezz.jpg');
   
 
   display: flex;
