@@ -13,10 +13,8 @@ body {
 }
 
 #app {
-  /* width: 100vw; */
+  width: auto;
   height: auto;
-  
-  
 
   display: flex;
   flex-direction: column;
