@@ -9,14 +9,12 @@
 
 body {
   /* background: #343541; */
-  background: contain url('./assets/Jezz.jpg');
+  background: url('./assets/Jezz.jpg');
 }
 
 #app {
   width: 100vw;
   height: 100vh;
-  
-  
 
   display: flex;
   flex-direction: column;
